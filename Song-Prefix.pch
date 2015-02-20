@@ -1,0 +1,27 @@
+//
+//  Song-Prefix.pch
+//  I-transpose_TableView
+//
+//  Created by Phuong Nguyen on 2/17/15.
+//  Copyright (c) 2015 msse650. All rights reserved.
+//
+
+#import <Availability.h>
+
+#ifndef I_transpose_TableView_Song_Prefix_pch
+//#define I_transpose_TableView_Song_Prefix_pch
+
+//#warning "This project uses features only available in iOS SDK 5.0 and later."
+#endif
+
+#ifdef __OBJC__
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
+
+#import <CoreData/CoreData.h>
+#endif
+
+
+
+
+
